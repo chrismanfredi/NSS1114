@@ -1,0 +1,120 @@
+Last login: Mon Nov 10 22:05:38 on ttys001
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+hello, world (planet)!
+
+$greeting, world (planet)!
+
+hello, world (planet)!
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Current User:	10-11-2014
+Date:		22:15:01 @ 
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo3
+Halo[@]}
+Halo[@]: -1}
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo3
+Halo Halo2 Halo3 Halo4 Assault Rifle Battle Rifle
+Battle Rifle
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo3
+Halo Halo2 Halo3 Halo4 Assault Rifle Battle Rifle
+Battle Rifle
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 7: file.txt: No such file or directory
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ echo "Some Text" > file.txt
+Chriss-MacBook-Pro-3:~ Chris$ cat file.txt
+Some Text
+Chriss-MacBook-Pro-3:~ Chris$ > file.txt
+Chriss-MacBook-Pro-3:~ Chris$ cat file.txt
+Chriss-MacBook-Pro-3:~ Chris$ echo "Some Text" > file.txt
+Chriss-MacBook-Pro-3:~ Chris$ echo "Some More Text" >> file.txt
+Chriss-MacBook-Pro-3:~ Chris$ cat file.txt
+Some Text
+Some More Text
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Line 1: Some Text
+Line 2: Some More Text
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+This is a
+multiline
+text string
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+This is a
+multiline
+text string
+Chriss-MacBook-Pro-3:~ Chris$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
