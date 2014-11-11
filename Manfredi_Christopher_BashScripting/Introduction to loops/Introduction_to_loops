@@ -1,0 +1,261 @@
+Last login: Mon Nov 10 22:05:38 on ttys001
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+hello, world (planet)!
+
+$greeting, world (planet)!
+
+hello, world (planet)!
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Current User:	10-11-2014
+Date:		22:15:01 @ 
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo3
+Halo[@]}
+Halo[@]: -1}
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo3
+Halo Halo2 Halo3 Halo4 Assault Rifle Battle Rifle
+Battle Rifle
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo3
+Halo Halo2 Halo3 Halo4 Assault Rifle Battle Rifle
+Battle Rifle
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 7: file.txt: No such file or directory
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ echo "Some Text" > file.txt
+Chriss-MacBook-Pro-3:~ Chris$ cat file.txt
+Some Text
+Chriss-MacBook-Pro-3:~ Chris$ > file.txt
+Chriss-MacBook-Pro-3:~ Chris$ cat file.txt
+Chriss-MacBook-Pro-3:~ Chris$ echo "Some Text" > file.txt
+Chriss-MacBook-Pro-3:~ Chris$ echo "Some More Text" >> file.txt
+Chriss-MacBook-Pro-3:~ Chris$ cat file.txt
+Some Text
+Some More Text
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Line 1: Some Text
+Line 2: Some More Text
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+This is a
+multiline
+text string
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+This is a
+multiline
+text string
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+4 is not greater than 4!
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 4: [: too many arguments
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+i:0
+i:1
+i:2
+i:3
+i:4
+i:5
+i:6
+i:7
+i:8
+i:9
+i:10
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+{1..100..2}
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+{1..100..2}
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 3: declare: -A: invalid option
+declare: usage: declare [-afFirtx] [-p] [name[=value] ...]
+./my.sh: line 4: unexpected EOF while looking for matching `]'
+./my.sh: line 10: syntax error: unexpected end of file
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 3: declare: -A: invalid option
+declare: usage: declare [-afFirtx] [-p] [name[=value] ...]
+0: 1234
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ 
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 3: declare: -A: invalid option
+declare: usage: declare [-afFirtx] [-p] [name[=value] ...]
+0: 1234
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+0: 1234
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo
+Halo2
+Halo3
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo
+Halo2
+Halo3
+Chriss-MacBook-Pro-3:~ Chris$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+Halo
+Halo2
+Halo3
+Chriss-MacBook-Pro-3:~ Chris$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

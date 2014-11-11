@@ -1,0 +1,28 @@
+Last login: Mon Nov 10 22:07:20 on ttys002
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+l: Applications
+1: Desktop
+2: Documents
+3: Downloads
+4: Dropbox
+5: Library
+6: Movies
+7: Music
+8: Pictures
+9: Public
+10: VirtualBox
+11: VMs
+12: a.txt
+13: file.txt
+14: friday.sh
+15: my.sh
+16: root
+17: root.outerfolder
+18: root.sh
+19: touch
+l: pine
+1: birch
+2: maple
+3: spruce
+Chriss-MacBook-Pro-3:~ Chris$ 
