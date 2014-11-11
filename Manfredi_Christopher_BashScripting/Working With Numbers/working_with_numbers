@@ -1,0 +1,25 @@
+Last login: Mon Nov 10 21:51:20 on ttys001
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+6
+7
+6
+
+11
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+6
+7
+6
+
+11
+33
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+6
+7
+6
+
+21
+273
+Chriss-MacBook-Pro-3:~ Chris$ 

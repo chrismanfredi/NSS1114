@@ -1,0 +1,24 @@
+Last login: Mon Nov 10 19:35:19 on ttys001
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+./my.sh: line 3: unexpected EOF while looking for matching `)'
+./my.sh: line 8: syntax error: unexpected end of file
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ ./my.sh
+ERROR: Something went wrong.
+Chriss-MacBook-Pro-3:~ Chris$ nano my.sh
+Chriss-MacBook-Pro-3:~ Chris$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
